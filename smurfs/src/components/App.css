@@ -1,3 +1,16 @@
 .App {
   text-align: center;
 }
+
+body{
+  background-color: aqua;
+}
+.smurf{
+  display:flex;
+  background-color: white;
+  width: 75%;
+  margin:auto;
+  justify-content: space-around;
+  border-radius:.5rem;
+  margin-top: 1rem;
+}
